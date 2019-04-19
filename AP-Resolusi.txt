@@ -1,0 +1,4 @@
+AP-Resolusi
+- Konsisten belajar web programming setiap hari
+- Membuat sebuah website untuk profil pemerintahan
+- membuat aplikasi daftar tamu
