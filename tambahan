@@ -44,7 +44,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://hometv.pw/logo/lokal/trans7.png" group-title="NASIONAL",TRANS 7 HD
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+https://streaming.indihometv.com/dass/133/trans7/manifest_wuseetv.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
