@@ -5,6 +5,13 @@
 
 
       ======NASIONAL=====
+#EXTM3U billed-msg="IPTV PLAYLIST MAKER", url-tvg="https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/singapore1.xml, https://www.open-epg.com/files/indonesia4.xml", refresh="3600"
+
+<==========================================___Nasional=====================================================>
+#EXTINF:-1 group-logo="https://cdn.jsdelivr.net/gh/roytipa/roytipa.github.io/png/nasional.png",___Nasional
+
+#EXTINF:-1 group-title="___Nasional" tvg-id="Antara.id" tvg-logo="",Antara News
+https://cdn14jtedge.indihometv.com/atm/mpd-vo/antara/antara-avc1_2500000=6-3380950610000000.mp4
 
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://hometv.pw/logo/lokal/mnctv.png" group-title="NASIONAL",MNC TV 
 #EXTVLCOPT:http-user-agent=android-R+
