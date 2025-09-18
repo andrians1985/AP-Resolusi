@@ -11,6 +11,10 @@
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="rcti" group-title="Nasional",rcti
+https://rcdn.rctiplus.id/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8?hdnts=exp=1758176944~hmac=f392827009e349b70b648294c1505c1cc685c2250bc497c10391b72e61b01e38
+
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Nasional",INDOSIAR 0🇮🇩
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
