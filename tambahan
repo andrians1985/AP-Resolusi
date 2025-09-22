@@ -3,7 +3,13 @@
 
            --------HAYOO MAU APA KEMARI--BALIK SANAA----
 
+#EXTM3U billed-msg="IPTV PLAYLIST MAKER", url-tvg="https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/singapore1.xml, https://www.open-epg.com/files/indonesia4.xml", refresh="3600"
 
+<==========================================___Nasional=====================================================>
+#EXTINF:-1 group-logo="https://cdn.jsdelivr.net/gh/roytipa/roytipa.github.io/png/nasional.png",___Nasional
+
+#EXTINF:-1 group-title="Nasional" tvg-id="RCTI.id" tvg-logo="",rcti
+https://rcdn.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?hdnts=exp=1758530495~hmac=cfd3b07fc133d0b3641de5c241ae248a593aa26b55cc55c1018ab23102e5937b
       ======NASIONAL=====
 
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://hometv.pw/logo/lokal/mnctv.png" group-title="NASIONAL",MNC TV 
